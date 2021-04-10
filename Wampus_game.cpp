@@ -371,6 +371,6 @@ int main()
     }
     cout<<endl;
   }
-  cout<<"\n\nThank you for playing. -By Dev Wadhwa"<<endl;
+  cout<<"\n\nThank you for playing. By Dev Wadhwa"<<endl;
   return 0;
 }
