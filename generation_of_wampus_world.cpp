@@ -5,7 +5,7 @@ using namespace std;
 int main() 
 {
   srand(time(0));
-  cout<<"Dev Wadhwa\n19BCE0444"<<endl;
+  cout<<"Dev Wadhwa"<<endl;
   int arr[4][4];
   int gold[4][4]={{0,0,0,0},{0,0,0,0},{0,0,0,0},{0,0,0,0}};
   int b[4][4]={{0,0,0,0},{0,0,0,0},{0,0,0,0},{0,0,0,0}};
