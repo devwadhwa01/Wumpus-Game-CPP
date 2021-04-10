@@ -229,6 +229,6 @@ int main()
     }
     cout<<endl;
   }
-  cout<<"\nThank you for playing. By Dev Wadhwa 19BCE0444"<<endl;
+  cout<<"\nBy Dev Wadhwa"<<endl;
   return 0;
 }
