@@ -1,1 +1,1 @@
-# Wampus-Game-C-
+# Wampus-Game-CPP
