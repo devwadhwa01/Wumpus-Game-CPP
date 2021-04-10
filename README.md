@@ -38,5 +38,7 @@ Sensors:
 Output contains the following information:
 
 a. Block numbers where pits, Wampus and gold are located.
+
 b. Path from block 1,1 to the gold if the agent is successful in finding it out. If it fails to do so, then the block number where the agent ended up is mentioned.
+
 c. Total reward points earned (or lost) by the agent.
